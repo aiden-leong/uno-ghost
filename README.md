@@ -3,9 +3,7 @@ Developed for my blog: https://www.mustu.cn/
 
 > Minimalist and Elegant theme for Ghost.
 
-**NOTE**: Commercial version is available as [Uno Urban](https://sellfy.com/p/G5kK).
-
-[<img src="http://i.imgur.com/LCSB4Ca.jpg">](http://kikobeats.com)
+[<img src="http://i.imgur.com/LCSB4Ca.jpg">]
 
 - [Uno Zen for Ghost](#uno-zen-for-ghost)
   * [Introduction](#introduction)
@@ -34,7 +32,7 @@ Developed for my blog: https://www.mustu.cn/
 
 Things that already existed:
 
-- A good [404 page error](http://kikobeats.com/404).
+- A good [404 page error].
 - Search support.
 - Multiaccount support.
 - Loading progress state for each page.
@@ -113,10 +111,10 @@ See in [Documentation](https://github.com/Kikobeats/uno-zen/blob/master/DOCUMENT
 ## Showcase
 
 <div align="center">
-<a target="blank" href="http://kikobeats.com"><img src="http://i.imgur.com/crE8jt2.png"></a>
-<a target="blank" href="http://www.evilsocket.net"><img src="http://i.imgur.com/qanAbQf.png"></a>
-<a target="blank" href="http://pupboss.com"><img src="http://i.imgur.com/0AeVKgB.png"></a>
-<a target="blank" href="http://robinz.in"><img src="http://i.imgur.com/qDAbrch.jpg" /></a>
+<a target="blank"><img src="http://i.imgur.com/crE8jt2.png"></a>
+<a target="blank"><img src="http://i.imgur.com/qanAbQf.png"></a>
+<a target="blank"><img src="http://i.imgur.com/0AeVKgB.png"></a>
+<a target="blank"><img src="http://i.imgur.com/qDAbrch.jpg" /></a>
 </br>
 </br>
 .. and many, many more. <a href="https://github.com/Kikobeats/uno-zen/blob/master/SHOWCASE.md">See all</a>!.
@@ -130,4 +128,4 @@ See in [Documentation](https://github.com/Kikobeats/uno-zen/blob/master/DOCUMENT
 
 ## License
 
-MIT © [Kiko Beats](kikobeats.com)
+MIT
