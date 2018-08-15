@@ -1,0 +1,20 @@
+@@ -1,58 +0,0 @@
+{
+  "name": "uno-ghost",
+  "version": "1.0",
+  "engines": {
+    "node": ">= 8"
+  },
+  "license": "MIT",
+  "browserSync": {
+    "files": [
+      "**/*.html",
+      "assets/**/*.*"
+    ],
+    "port": 3000,
+    "proxy": "http://127.0.0.1:2387"
+  },
+  "config": {
+    "posts_per_page": 40
+  }
+}
