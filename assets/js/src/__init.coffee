@@ -28,11 +28,6 @@ do ->
         el.addClass('deep-link')
         el.append("<a href=##{id} class=\"title-link\">#{text}</a>")
 
-    search:
-      form: do ->
-        context =  $('#search-container')
-        (action) -> context[action]()
-
     timeAgo: (selector) ->
       $(selector).each ->
         postDate = $(this).html()

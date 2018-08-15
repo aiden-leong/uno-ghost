@@ -1586,25 +1586,8 @@ body[data-page=error]{
     .pace,.post.reading-time,.post.related,span.post.tags{
         display:none
     }
-    #search-container{
-        display:none!important
-    }
     #profile-resume{
         display:inherit
-    }
-    #menu-button{
-        position:fixed;
-        top:.5rem;
-        left:13.5rem;
-        z-index:2;
-        display:block;
-        transition:all .35s
-    }
-    #menu-button.expanded{
-        left:.85rem
-    }
-    #menu-button>a>i{
-        color:#ea6153
     }
     .cover{
         width:16rem;
