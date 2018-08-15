@@ -115,30 +115,5 @@
   &.right {
     display: block;
     margin: .5rem;
-    .social {
-      margin: 0;
-      &.item {
-        display: inline-block;
-        margin: 0 4px 0 0;
-
-        line-height: 1em;
-        a {
-          padding: 6px 8px 6px 9px;
-
-          @extend %btn-cover;
-          .label {
-            display: none;
-          }
-          .icon {
-            display: block;
-
-            font-size: 1.7em;
-          }
-          &:hover {
-            color: $hover-color;
-          }
-        }
-      }
-    }
   }
 }

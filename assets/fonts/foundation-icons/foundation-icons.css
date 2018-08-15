@@ -1,4 +1,4 @@
-/* 
+/*
  * Foundation Icons v 3.0
  * Made by ZURB 2013 http://zurb.com/playground/foundation-icon-fonts-3
  * MIT License
@@ -195,63 +195,6 @@
 .fi-shopping-cart:before,
 .fi-shuffle:before,
 .fi-skull:before,
-.fi-social-500px:before,
-.fi-social-adobe:before,
-.fi-social-amazon:before,
-.fi-social-android:before,
-.fi-social-apple:before,
-.fi-social-behance:before,
-.fi-social-bing:before,
-.fi-social-blogger:before,
-.fi-social-delicious:before,
-.fi-social-designer-news:before,
-.fi-social-deviant-art:before,
-.fi-social-digg:before,
-.fi-social-dribbble:before,
-.fi-social-drive:before,
-.fi-social-dropbox:before,
-.fi-social-evernote:before,
-.fi-social-facebook:before,
-.fi-social-flickr:before,
-.fi-social-forrst:before,
-.fi-social-foursquare:before,
-.fi-social-game-center:before,
-.fi-social-github:before,
-.fi-social-google-plus:before,
-.fi-social-hacker-news:before,
-.fi-social-hi5:before,
-.fi-social-instagram:before,
-.fi-social-joomla:before,
-.fi-social-lastfm:before,
-.fi-social-linkedin:before,
-.fi-social-medium:before,
-.fi-social-myspace:before,
-.fi-social-orkut:before,
-.fi-social-path:before,
-.fi-social-picasa:before,
-.fi-social-pinterest:before,
-.fi-social-rdio:before,
-.fi-social-reddit:before,
-.fi-social-skillshare:before,
-.fi-social-skype:before,
-.fi-social-smashing-mag:before,
-.fi-social-snapchat:before,
-.fi-social-spotify:before,
-.fi-social-squidoo:before,
-.fi-social-stack-overflow:before,
-.fi-social-steam:before,
-.fi-social-stumbleupon:before,
-.fi-social-treehouse:before,
-.fi-social-tumblr:before,
-.fi-social-twitter:before,
-.fi-social-vimeo:before,
-.fi-social-windows:before,
-.fi-social-xbox:before,
-.fi-social-yahoo:before,
-.fi-social-yelp:before,
-.fi-social-youtube:before,
-.fi-social-zerply:before,
-.fi-social-zurb:before,
 .fi-sound:before,
 .fi-star:before,
 .fi-stop:before,
@@ -489,63 +432,6 @@
 .fi-shopping-cart:before { content: "\f1b1"; }
 .fi-shuffle:before { content: "\f1b2"; }
 .fi-skull:before { content: "\f1b3"; }
-.fi-social-500px:before { content: "\f1b4"; }
-.fi-social-adobe:before { content: "\f1b5"; }
-.fi-social-amazon:before { content: "\f1b6"; }
-.fi-social-android:before { content: "\f1b7"; }
-.fi-social-apple:before { content: "\f1b8"; }
-.fi-social-behance:before { content: "\f1b9"; }
-.fi-social-bing:before { content: "\f1ba"; }
-.fi-social-blogger:before { content: "\f1bb"; }
-.fi-social-delicious:before { content: "\f1bc"; }
-.fi-social-designer-news:before { content: "\f1bd"; }
-.fi-social-deviant-art:before { content: "\f1be"; }
-.fi-social-digg:before { content: "\f1bf"; }
-.fi-social-dribbble:before { content: "\f1c0"; }
-.fi-social-drive:before { content: "\f1c1"; }
-.fi-social-dropbox:before { content: "\f1c2"; }
-.fi-social-evernote:before { content: "\f1c3"; }
-.fi-social-facebook:before { content: "\f1c4"; }
-.fi-social-flickr:before { content: "\f1c5"; }
-.fi-social-forrst:before { content: "\f1c6"; }
-.fi-social-foursquare:before { content: "\f1c7"; }
-.fi-social-game-center:before { content: "\f1c8"; }
-.fi-social-github:before { content: "\f1c9"; }
-.fi-social-google-plus:before { content: "\f1ca"; }
-.fi-social-hacker-news:before { content: "\f1cb"; }
-.fi-social-hi5:before { content: "\f1cc"; }
-.fi-social-instagram:before { content: "\f1cd"; }
-.fi-social-joomla:before { content: "\f1ce"; }
-.fi-social-lastfm:before { content: "\f1cf"; }
-.fi-social-linkedin:before { content: "\f1d0"; }
-.fi-social-medium:before { content: "\f1d1"; }
-.fi-social-myspace:before { content: "\f1d2"; }
-.fi-social-orkut:before { content: "\f1d3"; }
-.fi-social-path:before { content: "\f1d4"; }
-.fi-social-picasa:before { content: "\f1d5"; }
-.fi-social-pinterest:before { content: "\f1d6"; }
-.fi-social-rdio:before { content: "\f1d7"; }
-.fi-social-reddit:before { content: "\f1d8"; }
-.fi-social-skillshare:before { content: "\f1d9"; }
-.fi-social-skype:before { content: "\f1da"; }
-.fi-social-smashing-mag:before { content: "\f1db"; }
-.fi-social-snapchat:before { content: "\f1dc"; }
-.fi-social-spotify:before { content: "\f1dd"; }
-.fi-social-squidoo:before { content: "\f1de"; }
-.fi-social-stack-overflow:before { content: "\f1df"; }
-.fi-social-steam:before { content: "\f1e0"; }
-.fi-social-stumbleupon:before { content: "\f1e1"; }
-.fi-social-treehouse:before { content: "\f1e2"; }
-.fi-social-tumblr:before { content: "\f1e3"; }
-.fi-social-twitter:before { content: "\f1e4"; }
-.fi-social-vimeo:before { content: "\f1e5"; }
-.fi-social-windows:before { content: "\f1e6"; }
-.fi-social-xbox:before { content: "\f1e7"; }
-.fi-social-yahoo:before { content: "\f1e8"; }
-.fi-social-yelp:before { content: "\f1e9"; }
-.fi-social-youtube:before { content: "\f1ea"; }
-.fi-social-zerply:before { content: "\f1eb"; }
-.fi-social-zurb:before { content: "\f1ec"; }
 .fi-sound:before { content: "\f1ed"; }
 .fi-star:before { content: "\f1ee"; }
 .fi-stop:before { content: "\f1ef"; }
