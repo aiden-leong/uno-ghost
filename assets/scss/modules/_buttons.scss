@@ -45,16 +45,3 @@ img,
     }
   }
 }
-
-#menu-button {
-  display: none;
-
-  > a {
-    > i {
-      color: $gray-lightest;
-      font-size: 36px;
-      position: relative;
-      top: 3px;
-    }
-  }
-}

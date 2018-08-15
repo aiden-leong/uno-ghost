@@ -34,25 +34,6 @@
     display: inherit;
   }/* off canvas */
 
-  #menu-button {
-    position: fixed;
-    top: .5rem;
-    left: 13.5rem;
-    z-index: 2;
-    display: block;
-    transition: all $aside-animation-time;
-
-    &.expanded {
-      left: .85rem;
-    }
-
-    > a {
-      > i {
-        color: $hover-color;
-      }
-    }
-  }
-
   .cover {
     width: 16rem;
     transition: width $aside-animation-time $aside-animation,
