@@ -1,10 +1,12 @@
 {{!< default}}
 
 <h1 style="text-align: center;" id="posts-headline">文章分类</h1>
-<ol id="posts-list">
-  <div class="kg-card-markdown"><ul>
-    <li><a href="/tag/swift/">Swift</a></li>
-    <li><a href="/tag/linux-kernel-development">Linux Kernel</a></li>
-  </ul>
-</div>
-</ol>
+{{#get "tags" limit="all"}}
+    <ul class="tags">
+        {{#foreach tags}}
+            <li>
+                <a href="{{url}}">{{name}}</a>
+            </li>
+        {{/foreach}}
+    </ul>
+{{/get}}
