@@ -1,14 +1,10 @@
 {{!< default}}
 
-<h1 style="text-align: center;" id="posts-headline">Articles</h1>
+<h1 style="text-align: center;" id="posts-headline">文章分类</h1>
 <ol id="posts-list">
-  {{#foreach posts}}
-  <li>
-    <a href="{{url}}" title="Read more about '{{title}}'">{{title}}</a>
-    <time datetime="{{date format="DD MMM YYYY"}}">{{date format="DD MMM YYYY"}}</time>
-    <span class="post tags">{{tags separator=" "}}</span>
-  </li>
-  {{/foreach}}
+  <div class="kg-card-markdown"><ul>
+    <li><a href="/tag/swift/">Swift</a></li>
+    <li><a href="/tag/linux-kernel-development">Linux Kernel</a></li>
+  </ul>
+</div>
 </ol>
-
-{{pagination}}
