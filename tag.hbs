@@ -4,8 +4,8 @@
 <ol id="posts-list">
   {{#foreach posts}}
   <li>
-    <time datetime="{{date format="DD MMM YYYY"}}">{{date format="DD MMM YYYY"}}</time>
-    <a href="{{url}}" title="Read more about '{{title}}'">{{title}}</a>
+    <time datetime="{{date format="YYYY MM DD"}}">{{date format="YYYY MM DD"}}</time>
+    <a href="{{url}}">{{title}}</a>
     <span class="post tags">{{tags separator=" "}}</span>
   </li>
   {{/foreach}}
