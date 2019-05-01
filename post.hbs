@@ -5,12 +5,11 @@
 <article class="{{post_class}}">
   <header>
     <div class="post meta">
-      <time datetime="{{date format="YYYY-MM-DDTHH:MM"}}">{{date format="DD MMM YYYY"}}</time>
-      <span class="post tags">{{tags prefix="in " separator=" "}}</span>
+      <time datetime="{{date format="YYYY-MM-DDTHH:MM"}}">{{date format="YYYY-MM-DD"}}</time>
+      <span class="post tags">{{tags prefix=" " separator=" "}}</span>
 
       {{!> post-author}}
-
-      <span class="post reading-time"> ~ <span></span> read.</span>
+      
     </div>
     <h1 class="icon-reverse" id="post-title">{{title}}</h1>
   </header>
