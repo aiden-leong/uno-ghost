@@ -1,12 +1,14 @@
 {{!< default}}
 
-<h1 style="text-align: center;" id="posts-headline">文章分类</h1>
-{{#get "tags" limit="all"}}
-    <ul class="tags">
-        {{#foreach tags}}
-            <li>
-                <a href="{{url}}">{{name}}</a>
-            </li>
-        {{/foreach}}
-    </ul>
-{{/get}}
+<h1 style="text-align: center;" id="posts-headline">文章列表</h1>
+<ol id="posts-list">
+  {{#foreach posts}}
+  <li>
+    <a href="{{url}}" title="阅读全文 '{{title}}'">{{title}}</a>
+    <time datetime="{{date format="YYYY-MM-DD"}}">{{date format="YYYY-MM-DD"}}</time>
+    <span class="post tags">{{tags separator=" "}}</span>
+  </li>
+  {{/foreach}}
+</ol>
+
+{{pagination}}
