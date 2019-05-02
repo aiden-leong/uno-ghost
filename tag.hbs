@@ -2,6 +2,7 @@
 
 <h1 style="text-align: center;">{{tag.name}}.</h1>
 <ol id="posts-list">
+{{#get "posts" order="title asc"}}
   {{#foreach posts}}
   <li>
     <time datetime="{{date format="YYYY-MM-DD"}}">{{date format="YYYY-MM-DD"}}</time>
@@ -9,6 +10,6 @@
     <span class="post tags">{{tags separator=" "}}</span>
   </li>
   {{/foreach}}
+{{/get}}
 </ol>
-
 {{pagination}}
