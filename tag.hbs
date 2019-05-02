@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center;">{{tag.name}}.</h1>
 <ol id="posts-list">
-{{#get "posts" filter="primary_tag:{{tag.name}}" order="title asc"}}
+{{#get "posts" filter="primary_tag:{{tag.slug}}" order="title asc"}}
   {{#foreach posts}}
   <li>
     <time datetime="{{date format="YYYY-MM-DD"}}">{{date format="YYYY-MM-DD"}}</time>
